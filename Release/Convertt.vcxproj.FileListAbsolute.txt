@@ -1,0 +1,4 @@
+C:\Users\leon-\Desktop\Лабы сделанные\ВКР\Convertt\Release\Convertt.exe
+C:\Users\leon-\Desktop\Лабы сделанные\ВКР\C++\Convertt\Release\Convertt.exe
+C:\Users\leon-\Desktop\Лабы сделанные\ВКР\C++\Сейв 1.11.20\Convertt\Release\Convertt.exe
+C:\Users\leon-\Desktop\Лабы сделанные\ВКР\C++\Сейв 17.01.2021 (динамика)\Convertt\Release\Convertt.exe
